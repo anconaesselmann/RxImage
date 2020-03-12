@@ -1,0 +1,16 @@
+PODS:
+  - RxImage (0.1.0)
+
+DEPENDENCIES:
+  - RxImage (from `../`)
+
+EXTERNAL SOURCES:
+  RxImage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RxImage: e7694b87be6da5851c4839aed645c111d5502236
+
+PODFILE CHECKSUM: ea36ee238fd2384aed4ab48c45aeb2f5069a315a
+
+COCOAPODS: 1.7.5

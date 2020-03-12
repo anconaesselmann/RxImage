@@ -1,0 +1,6 @@
+framework module RxImage {
+  umbrella header "RxImage-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "RxImage",
+  "version": "0.1.0",
+  "summary": "A short description of RxImage.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/anconaesselmann/RxImage",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "anconaesselmann": "axel@anconaesselmann.com"
+  },
+  "source": {
+    "git": "https://github.com/anconaesselmann/RxImage.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RxImage/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+use_frameworks!
+target 'RxImage_Tests' do
+  pod 'RxImage', :path => '../'
+  
+  
+end
